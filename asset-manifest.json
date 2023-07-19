@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/LiveWeatherApp/static/css/main.01e4a207.chunk.css",
+    "main.js": "/LiveWeatherApp/static/js/main.0822375e.chunk.js",
+    "main.js.map": "/LiveWeatherApp/static/js/main.0822375e.chunk.js.map",
+    "runtime-main.js": "/LiveWeatherApp/static/js/runtime-main.a2dcfa05.js",
+    "runtime-main.js.map": "/LiveWeatherApp/static/js/runtime-main.a2dcfa05.js.map",
+    "static/js/2.6a7fe4e9.chunk.js": "/LiveWeatherApp/static/js/2.6a7fe4e9.chunk.js",
+    "static/js/2.6a7fe4e9.chunk.js.map": "/LiveWeatherApp/static/js/2.6a7fe4e9.chunk.js.map",
+    "index.html": "/LiveWeatherApp/index.html",
+    "precache-manifest.5d41de3835c176db0427dc006509bb18.js": "/LiveWeatherApp/precache-manifest.5d41de3835c176db0427dc006509bb18.js",
+    "service-worker.js": "/LiveWeatherApp/service-worker.js",
+    "static/css/main.01e4a207.chunk.css.map": "/LiveWeatherApp/static/css/main.01e4a207.chunk.css.map",
+    "static/js/2.6a7fe4e9.chunk.js.LICENSE.txt": "/LiveWeatherApp/static/js/2.6a7fe4e9.chunk.js.LICENSE.txt",
+    "static/media/WeatherIcons.gif": "/LiveWeatherApp/static/media/WeatherIcons.0a218296.gif",
+    "static/media/App.css": "/LiveWeatherApp/static/media/city.e1698332.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2dcfa05.js",
+    "static/js/2.6a7fe4e9.chunk.js",
+    "static/css/main.01e4a207.chunk.css",
+    "static/js/main.0822375e.chunk.js"
+  ]
+}
